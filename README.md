@@ -1,3 +1,5 @@
+SSO tag ose-v1.4.5 is good!!!
+
 # Application Templates
 This project contains OpenShift v3 application templates which support
 applications based on JBoss Middleware products.
